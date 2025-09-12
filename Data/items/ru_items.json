@@ -1,6 +1,9 @@
+Я помогу вам сделать русификатор для этого файла. Для этого нужно перевести все значения `strName` на русский язык, сохранив структуру JSON. Вот переведенная версия:
+
+```json
 [
   {
-    "strName": "_отсутствует",
+    "strName": "_пропущено",
     "strImg": "missing",
     "strImgNorm": "missingn",
     "strImgDamaged": "",
@@ -64,7 +67,7 @@
     "aShadowBoxes": ["0.0,0.0,0.25,0.25"]
   },
   {
-    "strName": "Игровой автомат 01",
+    "strName": "АркадныйАвтомат01",
     "strImg": "ItmArcadeGame01",
     "strImgNorm": "ItmArcadeGame01n",
     "strImgDamaged": "ItmArcadeGame01Dmg",
@@ -79,7 +82,7 @@
     "aSocketReqs": ["Blank", "Blank", "Blank", "Blank", "Blank", "TILFloor", "TILFloor", "Blank", "Blank", "TILFloor", "TILFloor", "Blank", "Blank", "TILFloor", "TILFloor", "Blank", "Blank", "Blank", "Blank", "Blank"]
   },
   {
-    "strName": "Игровой автомат 01 Выкл",
+    "strName": "АркадныйАвтомат01Выкл",
     "strImg": "ItmArcadeGame01",
     "strImgNorm": "ItmArcadeGame01n",
     "strImgDamaged": "ItmArcadeGame01Dmg",
@@ -93,7 +96,7 @@
     "aSocketReqs": ["Blank", "Blank", "Blank", "Blank", "Blank", "TILFloor", "TILFloor", "Blank", "Blank", "TILFloor", "TILFloor", "Blank", "Blank", "TILFloor", "TILFloor", "Blank", "Blank", "Blank", "Blank", "Blank"]
   },
   {
-    "strName": "Игровой автомат 01 Поврежденный",
+    "strName": "АркадныйАвтомат01Поврежденный",
     "strImg": "ItmArcadeGame01Dmg",
     "strImgNorm": "ItmArcadeGame01Dmgn",
     "strImgDamaged": "",
@@ -107,7 +110,7 @@
     "aSocketReqs": ["Blank", "Blank", "Blank", "Blank", "Blank", "TILFloor", "TILFloor", "Blank", "Blank", "TILFloor", "TILFloor", "Blank", "Blank", "TILFloor", "TILFloor", "Blank", "Blank", "Blank", "Blank", "Blank"]
   },
   {
-    "strName": "Игровой автомат 01 Поврежденный (Отдельно)",
+    "strName": "АркадныйАвтомат01ПоврежденныйСвободный",
     "strImg": "ItmArcadeGame01DmgLoose",
     "strImgNorm": "ItmArcadeGame01DmgLoosen",
     "strImgDamaged": "",
@@ -122,7 +125,7 @@
     "aSocketReqs": ["Blank", "Blank", "Blank", "Blank", "Blank", "TILFloor", "TILFloor", "Blank", "Blank", "TILFloor", "TILFloor", "Blank", "Blank", "TILFloor", "TILFloor", "Blank", "Blank", "Blank", "Blank", "Blank"]
   },
   {
-    "strName": "Игровой автомат 01 (Отдельно)",
+    "strName": "АркадныйАвтомат01Свободный",
     "strImg": "ItmArcadeGame01Loose",
     "strImgNorm": "ItmArcadeGame01Loosen",
     "strImgDamaged": "ItmArcadeGame01DmgLoose",
@@ -137,7 +140,7 @@
     "aSocketReqs": ["Blank", "Blank", "Blank", "Blank", "Blank", "TILFloor", "TILFloor", "Blank", "Blank", "TILFloor", "TILFloor", "Blank", "Blank", "TILFloor", "TILFloor", "Blank", "Blank", "Blank", "Blank", "Blank"]
   },
   {
-    "strName": "Груз ИИ 01",
+    "strName": "ИИГруз01",
     "strImg": "ItmAICargo01",
     "strImgNorm": "ItmAICargo01n",
     "strImgDamaged": "ItmAICargo01Dmg02",
@@ -151,7 +154,7 @@
     "aSocketReqs": ["Blank", "Blank", "Blank", "Blank", "Blank", "TILFloor", "TILFloor", "Blank", "Blank", "TILFloor", "TILFloor", "Blank", "Blank", "TILFloor", "TILFloor", "Blank", "Blank", "Blank", "Blank", "Blank"]
   },
   {
-    "strName": "Груз ИИ 01 Поврежденный 02",
+    "strName": "ИИГруз01Поврежденный02",
     "strImg": "ItmAICargo01Dmg02",
     "strImgNorm": "ItmAICargo01n",
     "strImgDamaged": "",
@@ -164,7 +167,7 @@
     "aSocketReqs": ["Blank", "Blank", "Blank", "Blank", "Blank", "TILFloor", "TILFloor", "Blank", "Blank", "TILFloor", "TILFloor", "Blank", "Blank", "TILFloor", "TILFloor", "Blank", "Blank", "Blank", "Blank", "Blank"]
   },
   {
-    "strName": "Груз ИИ 01 (Отдельно)",
+    "strName": "ИИГруз01Свободный",
     "strImg": "ItmAICargo01Loose",
     "strImgNorm": "ItmAICargo01Loosen",
     "strImgDamaged": "ItmAICargo01Dmg02Loose",
@@ -178,7 +181,7 @@
     "aSocketReqs": ["Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank"]
   },
   {
-    "strName": "Груз ИИ 01 (Отдельно) Поврежденный",
+    "strName": "ИИГруз01СвободныйПоврежденный",
     "strImg": "ItmAICargo01Dmg02Loose",
     "strImgNorm": "ItmAICargo01Loosen",
     "strImgDamaged": "",
@@ -191,9 +194,36 @@
     "aSocketReqs": ["Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank"]
   },
   {
-    "strName": "Груз ИИ 01 Выкл",
+    "strName": "ИИГруз01Выкл",
     "strImg": "ItmAICargo01",
     "strImgNorm": "ItmAICargo01n",
+    "strImgDamaged": "",
+    "strDmgColor": "DamageTintNone",
+    "fDmgComplexity": 500,
+    "fZScale": 0.5,
+    "nCols": 2,
+    "aSocketAdds": ["TILFixtureAdds", "TILFixtureAdds", "TILPowerJackAdds", "TILFixtureAdds", "TILFixtureAdds", "TILFixtureAdds"],
+    "aSocketForbids": ["Blank", "Blank", "Blank", "Blank", "Blank", "TILObstruction", "TILObstruction", "Blank", "Blank", "TILObstruction", "TILObstruction", "Blank", "Blank", "TILObstruction", "TILObstruction", "Blank", "Blank", "Blank", "Blank", "Blank"],
+    "aSocketReqs": ["Blank", "Blank", "Blank", "Blank", "Blank", "TILFloor", "TILFloor", "Blank", "Blank", "TILFloor", "TILFloor", "Blank", "Blank", "TILFloor", "TILFloor", "Blank", "Blank", "Blank", "Blank", "Blank"]
+  },
+  {
+    "strName": "ИИГруз02",
+    "strImg": "ItmAICargo02",
+    "strImgNorm": "ItmAICargo02n",
+    "strImgDamaged": "ItmAICargo02Dmg02",
+    "strDmgColor": "DamageTintNone",
+    "fDmgComplexity": 500,
+    "fZScale": 0.5,
+    "nCols": 2,
+    "aLights": ["AICargo"],
+    "aSocketAdds": ["TILFixtureAdds", "TILFixtureAdds", "TILPowerJackAdds", "TILFixtureAdds", "TILFixtureAdds", "TILFixtureAdds"],
+    "aSocketForbids": ["Blank", "Blank", "Blank", "Blank", "Blank", "TILObstruction", "TILObstruction", "Blank", "Blank", "TILObstruction", "TILObstruction", "Blank", "Blank", "TILObstruction", "TILObstruction", "Blank", "Blank", "Blank", "Blank", "Blank"],
+    "aSocketReqs": ["Blank", "Blank", "Blank", "Blank", "Blank", "TILFloor", "TILFloor", "Blank", "Blank", "TILFloor", "TILFloor", "Blank", "Blank", "TILFloor", "TILFloor", "Blank", "Blank", "Blank", "Blank", "Blank"]
+  },
+  {
+    "strName": "ИИГруз02Поврежденный02",
+    "strImg": "ItmAICargo02Dmg02",
+    "strImgNorm": "ItmAICargo02n",
     "strImgDamaged": "",
     "strDmgColor": "DamageTintRust",
     "fDmgComplexity": 500,
@@ -204,9 +234,23 @@
     "aSocketReqs": ["Blank", "Blank", "Blank", "Blank", "Blank", "TILFloor", "TILFloor", "Blank", "Blank", "TILFloor", "TILFloor", "Blank", "Blank", "TILFloor", "TILFloor", "Blank", "Blank", "Blank", "Blank", "Blank"]
   },
   {
-    "strName": "Груз ИИ 01 Выкл (Отдельно)",
-    "strImg": "ItmAICargo01Loose",
-    "strImgNorm": "ItmAICargo01Loosen",
+    "strName": "ИИГруз02Свободный",
+    "strImg": "ItmAICargo02Loose",
+    "strImgNorm": "ItmAICargo02Loosen",
+    "strImgDamaged": "ItmAICargo02Dmg02Loose",
+    "strDmgColor": "DamageTintNone",
+    "fDmgComplexity": 500,
+    "fZScale": 0.5,
+    "nCols": 2,
+    "aLights": ["AICargo"],
+    "aSocketAdds": ["TILItemAdds", "TILItemAdds", "TILPowerJackAdds", "TILItemAdds", "TILItemAdds", "TILItemAdds"],
+    "aSocketForbids": ["Blank", "Blank", "Blank", "Blank", "Blank", "TILItemForbids", "TILItemForbids", "Blank", "Blank", "TILItemForbids", "TILItemForbids", "Blank", "Blank", "TILItemForbids", "TILItemForbids", "Blank", "Blank", "Blank", "Blank", "Blank"],
+    "aSocketReqs": ["Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank"]
+  },
+  {
+    "strName": "ИИГруз02СвободныйПоврежденный",
+    "strImg": "ItmAICargo02Dmg02Loose",
+    "strImgNorm": "ItmAICargo02Loosen",
     "strImgDamaged": "",
     "strDmgColor": "DamageTintRust",
     "fDmgComplexity": 500,
@@ -216,294 +260,108 @@
     "aSocketForbids": ["Blank", "Blank", "Blank", "Blank", "Blank", "TILItemForbids", "TILItemForbids", "Blank", "Blank", "TILItemForbids", "TILItemForbids", "Blank", "Blank", "TILItemForbids", "TILItemForbids", "Blank", "Blank", "Blank", "Blank", "Blank"],
     "aSocketReqs": ["Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank"]
   },
-    {
-    "strName": "Воздушный насос 02 Поврежденный",
-    "strImg": "ItmAirPump02Debug",
-    "strImgNorm": "ItmAirPump02Offn",
-    "strImgDamaged": "",
-    "strDmgColor": "DamageTintRust",
-    "fZScale": 0.75,
-    "nCols": 1,
-    "aSocketAdds": ["TILWallDecoAdds", "TILFixtureAdds", "TILWallDecoAdds"],
-    "aSocketForbids": ["Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "TILFixture", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank"],
-    "aSocketReqs": ["Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "TILWall", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank"]
-  },
   {
-    "strName": "Воздушный насос 02 Поврежденный (Отдельно)",
-    "strImg": "ItmAirPump02DebugLoose",
-    "strImgNorm": "ItmAirPump02OffLoosen",
+    "strName": "ИИГруз02Выкл",
+    "strImg": "ItmAICargo02",
+    "strImgNorm": "ItmAICargo02n",
     "strImgDamaged": "",
-    "strDmgColor": "DamageTintRust",
-    "fZScale": 0.5,
-    "nCols": 1,
-    "aSocketAdds": ["TILItemAdds", "TILItemAdds", "TILItemAdds"],
-    "aSocketForbids": ["Blank", "Blank", "Blank", "Blank", "TILItemForbids", "Blank", "Blank", "TILItemForbids", "Blank", "Blank", "TILItemForbids", "Blank", "Blank", "Blank", "Blank"],
-    "aSocketReqs": ["Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank"]
-  },
-  {
-    "strName": "Воздушный насос 02 Выкл",
-    "strImg": "ItmAirPump02Debug",
-    "strImgNorm": "ItmAirPump02Offn",
-    "strImgDamaged": "ItmAirPump02Dmg01",
     "strDmgColor": "DamageTintNone",
     "fDmgComplexity": 500,
-    "bLerp": false,
-    "fZScale": 0.75,
-    "nCols": 1,
-    "aSocketAdds": ["TILWallDecoAdds", "TILFixtureAdds", "TILWallDecoAdds"],
-    "aSocketForbids": ["Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "TILFixture", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank"],
-    "aSocketReqs": ["Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "TILWall", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank"]
-  },
-  {
-    "strName": "Воздушный насос 02 Выкл (Отдельно)",
-    "strImg": "ItmAirPump02DebugLoose",
-    "strImgNorm": "ItmAirPump02OffLoosen",
-    "strImgDamaged": "ItmAirPump02Dmg01Loose",
-    "strDmgColor": "DamageTintNone",
-    "fDmgComplexity": 500,
-    "bLerp": false,
     "fZScale": 0.5,
-    "nCols": 1,
-    "aSocketAdds": ["TILItemAdds", "TILItemAdds", "TILItemAdds"],
-    "aSocketForbids": ["Blank", "Blank", "Blank", "Blank", "TILItemForbids", "Blank", "Blank", "TILItemForbids", "Blank", "Blank", "TILItemForbids", "Blank", "Blank", "Blank", "Blank"],
-    "aSocketReqs": ["Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank"]
-  },
-  {
-    "strName": "Воздушный насос 02 Зеленый",
-    "strImg": "ItmAirPump02Debug",
-    "strImgNorm": "ItmAirPump02Offn",
-    "strImgDamaged": "ItmAirPump01Dmg02",
-    "strDmgColor": "DamageTintNone",
-    "fDmgComplexity": 500,
-    "bLerp": false,
-    "fZScale": 0.75,
-    "nCols": 1,
-    "aLights": ["AirPumpRGG"],
-    "aSocketAdds": ["TILWallDecoAdds", "TILFixtureAdds", "TILWallDecoAdds"],
-    "aSocketForbids": ["Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "TILFixture", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank"],
-    "aSocketReqs": ["Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "TILWall", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank"]
-  },
-  {
-    "strName": "Сигнализация Азот 02 Выкл",
-    "strImg": "ItmAlarmN2Off",
-    "strImgNorm": "ItmAlarm2n",
-    "strImgDamaged": "ItmAlarmN2OffDmg02",
-    "strDmgColor": "DamageTintNone",
-    "fZScale": 0.75,
-    "nCols": 1,
-    "aSocketAdds": ["TILWallDecoAdds"],
-    "aSocketForbids": ["Blank", "Blank", "Blank", "Blank", "TILWallDecoAdds", "Blank", "Blank", "Blank", "Blank"],
-    "aSocketReqs": ["Blank", "TILWall", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank"]
-  },
-  {
-    "strName": "Сигнализация Азот 02 Выкл (Отдельно)",
-    "strImg": "ItmAlarmN2OffLoose",
-    "strImgNorm": "ItmAlarm2Loosen",
-    "strImgDamaged": "ItmAlarmN2OffDmg02Loose",
-    "strDmgColor": "DamageTintDefault",
-    "fZScale": 0.5,
-    "nCols": 1,
-    "aSocketAdds": ["TILItemAdds"],
-    "aSocketForbids": ["Blank", "Blank", "Blank", "Blank", "TILItemForbids", "Blank", "Blank", "Blank", "Blank"],
-    "aSocketReqs": ["Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank"]
-  },
-  {
-    "strName": "Сигнализация Азот 02 Поврежденная",
-    "strImg": "ItmAlarmN2OffDmg02",
-    "strImgNorm": "ItmAlarmN2OffDmg02n",
-    "strImgDamaged": "",
-    "strDmgColor": "DamageTintDefault",
-    "fZScale": 0.75,
-    "nCols": 1,
-    "aSocketAdds": ["TILWallDecoAdds"],
-    "aSocketForbids": ["Blank", "Blank", "Blank", "Blank", "TILWallDecoAdds", "Blank", "Blank", "Blank", "Blank"],
-    "aSocketReqs": ["Blank", "TILWall", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank"]
-  },
-  {
-    "strName": "Сигнализация Азот 02 Поврежденная (Отдельно)",
-    "strImg": "ItmAlarmN2OffDmg02Loose",
-    "strImgNorm": "ItmAlarmN2OffDmg02Loosen",
-    "strImgDamaged": "",
-    "strDmgColor": "DamageTintDefault",
-    "fZScale": 0.5,
-    "nCols": 1,
-    "aSocketAdds": ["TILItemAdds"],
-    "aSocketForbids": ["Blank", "Blank", "Blank", "Blank", "TILItemForbids", "Blank", "Blank", "Blank", "Blank"],
-    "aSocketReqs": ["Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank"]
-  },
-  {
-    "strName": "Сигнализация Азот 02 Вкл (Зеленая)",
-    "strImg": "ItmAlarmN2Off",
-    "strImgNorm": "ItmAlarm2n",
-    "strImgDamaged": "ItmAlarmN2OffDmg02",
-    "strDmgColor": "DamageTintNone",
-    "fZScale": 0.75,
-    "nCols": 1,
-    "aLights": ["Alarm2G"],
-    "aSocketAdds": ["TILWallDecoAdds"],
-    "aSocketForbids": ["Blank", "Blank", "Blank", "Blank", "TILWallDecoAdds", "Blank", "Blank", "Blank", "Blank"],
-    "aSocketReqs": ["Blank", "TILWall", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank"]
-  },
-  {
-    "strName": "Сигнализация Азот 02 Вкл (Красная)",
-    "strImg": "ItmAlarmN2Off",
-    "strImgNorm": "ItmAlarm2n",
-    "strImgDamaged": "ItmAlarmN2OffDmg02",
-    "strDmgColor": "DamageTintNone",
-    "fZScale": 0.75,
-    "nCols": 1,
-    "aLights": ["Alarm2R"],
-    "aSocketAdds": ["TILWallDecoAdds"],
-    "aSocketForbids": ["Blank", "Blank", "Blank", "Blank", "TILWallDecoAdds", "Blank", "Blank", "Blank", "Blank"],
-    "aSocketReqs": ["Blank", "TILWall", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank"]
-  },
-  {
-    "strName": "Сигнализация CO2 Выкл",
-    "strImg": "ItmAlarmCO2Off",
-    "strImgNorm": "ItmAlarm2n",
-    "strImgDamaged": "ItmAlarmCO2OffDmg02",
-    "strDmgColor": "DamageTintNone",
-    "fZScale": 0.75,
-    "nCols": 1,
-    "aSocketAdds": ["TILWallDecoAdds"],
-    "aSocketForbids": ["Blank", "Blank", "Blank", "Blank", "TILWallDecoAdds", "Blank", "Blank", "Blank", "Blank"],
-    "aSocketReqs": ["Blank", "TILWall", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank"]
-  },
-  {
-    "strName": "Сигнализация CO2 Выкл (Отдельно)",
-    "strImg": "ItmAlarmCO2OffLoose",
-    "strImgNorm": "ItmAlarm2Loosen",
-    "strImgDamaged": "ItmAlarmCO2OffDmg02Loose",
-    "strDmgColor": "DamageTintDefault",
-    "fZScale": 0.5,
-    "nCols": 1,
-    "aSocketAdds": ["TILItemAdds"],
-    "aSocketForbids": ["Blank", "Blank", "Blank", "Blank", "TILItemForbids", "Blank", "Blank", "Blank", "Blank"],
-    "aSocketReqs": ["Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank"]
-  },
-  {
-    "strName": "Сигнализация CO2 Поврежденная",
-    "strImg": "ItmAlarmCO2OffDmg02",
-    "strImgNorm": "ItmAlarmCO2OffDmg02n",
-    "strImgDamaged": "",
-    "strDmgColor": "DamageTintDefault",
-    "fZScale": 0.75,
-    "nCols": 1,
-    "aSocketAdds": ["TILWallDecoAdds"],
-    "aSocketForbids": ["Blank", "Blank", "Blank", "Blank", "TILWallDecoAdds", "Blank", "Blank", "Blank", "Blank"],
-    "aSocketReqs": ["Blank", "TILWall", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank"]
-  },
-  {
-    "strName": "Сигнализация CO2 Поврежденная (Отдельно)",
-    "strImg": "ItmAlarmCO2OffDmg02Loose",
-    "strImgNorm": "ItmAlarmCO2OffDmg02Loosen",
-    "strImgDamaged": "",
-    "strDmgColor": "DamageTintDefault",
-    "fZScale": 0.5,
-    "nCols": 1,
-    "aSocketAdds": ["TILItemAdds"],
-    "aSocketForbids": ["Blank", "Blank", "Blank", "Blank", "TILItemForbids", "Blank", "Blank", "Blank", "Blank"],
-    "aSocketReqs": ["Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank"]
-  },
-  {
-    "strName": "Сигнализация CO2 Вкл (Зеленая)",
-    "strImg": "ItmAlarmCO2Off",
-    "strImgNorm": "ItmAlarm2n",
-    "strImgDamaged": "ItmAlarmCO2OffDmg02",
-    "strDmgColor": "DamageTintNone",
-    "fZScale": 0.75,
-    "nCols": 1,
-    "aLights": ["Alarm2G"],
-    "aSocketAdds": ["TILWallDecoAdds"],
-    "aSocketForbids": ["Blank", "Blank", "Blank", "Blank", "TILWallDecoAdds", "Blank", "Blank", "Blank", "Blank"],
-    "aSocketReqs": ["Blank", "TILWall", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank"]
-  },
-  {
-    "strName": "Сигнализация CO2 Вкл (Желтая)",
-    "strImg": "ItmAlarmCO2Off",
-    "strImgNorm": "ItmAlarm2n",
-    "strImgDamaged": "ItmAlarmCO2OffDmg02",
-    "strDmgColor": "DamageTintNone",
-    "fZScale": 0.75,
-    "nCols": 1,
-    "aLights": ["Alarm2Y"],
-    "aSocketAdds": ["TILWallDecoAdds"],
-    "aSocketForbids": ["Blank", "Blank", "Blank", "Blank", "TILWallDecoAdds", "Blank", "Blank", "Blank", "Blank"],
-    "aSocketReqs": ["Blank", "TILWall", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank"]
-  },
-  {
-    "strName": "Сигнализация CO2 Вкл (Красная)",
-    "strImg": "ItmAlarmCO2Off",
-    "strImgNorm": "ItmAlarm2n",
-    "strImgDamaged": "ItmAlarmCO2OffDmg02",
-    "strDmgColor": "DamageTintNone",
-    "fZScale": 0.75,
-    "nCols": 1,
-    "aLights": ["Alarm2R"],
-    "aSocketAdds": ["TILWallDecoAdds"],
-    "aSocketForbids": ["Blank", "Blank", "Blank", "Blank", "TILWallDecoAdds", "Blank", "Blank", "Blank", "Blank"],
-    "aSocketReqs": ["Blank", "TILWall", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank"]
-  },
-    {
-    "strName": "Патроны 9мм",
-    "strImg": "ItmAmmo9mm",
-    "strImgNorm": "ItmAmmo9mmn",
-    "strImgDamaged": "",
-    "strDmgColor": "DamageTintRust",
-    "fZScale": 0.02,
-    "nCols": 1,
-    "aSocketAdds": ["TILItemAdds"],
-    "aSocketForbids": ["Blank", "Blank", "Blank", "Blank", "TILItemForbids", "Blank", "Blank", "Blank", "Blank"],
-    "aSocketReqs": ["Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank"]
-  },
-  {
-    "strName": "Безгильзовые патроны",
-    "strImg": "ItmAmmoHullsafe",
-    "strImgNorm": "ItmAmmo9mmn",
-    "strImgDamaged": "",
-    "strDmgColor": "DamageTintRust",
-    "fZScale": 0.02,
-    "nCols": 1,
-    "aSocketAdds": ["TILItemAdds"],
-    "aSocketForbids": ["Blank", "Blank", "Blank", "Blank", "TILItemForbids", "Blank", "Blank", "Blank", "Blank"],
-    "aSocketReqs": ["Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank"]
-  },
-  {
-    "strName": "Болты",
-    "strImg": "ItmAmmoBolt",
-    "strImgNorm": "ItmAmmoBoltn",
-    "strImgDamaged": "",
-    "strDmgColor": "DamageTintRust",
-    "fZScale": 0.21,
     "nCols": 2,
-    "aSocketAdds": ["TILItemAdds", "TILItemAdds"],
-    "aSocketForbids": ["Blank", "Blank", "Blank", "Blank", "Blank", "TILItemForbids", "TILItemForbids", "Blank", "Blank", "Blank", "Blank", "Blank"],
-    "aSocketReqs": ["Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank"]
+    "aSocketAdds": ["TILFixtureAdds", "TILFixtureAdds", "TILPowerJackAdds", "TILFixtureAdds", "TILFixtureAdds", "TILFixtureAdds"],
+    "aSocketForbids": ["Blank", "Blank", "Blank", "Blank", "Blank", "TILObstruction", "TILObstruction", "Blank", "Blank", "TILObstruction", "TILObstruction", "Blank", "Blank", "TILObstruction", "TILObstruction", "Blank", "Blank", "Blank", "Blank", "Blank"],
+    "aSocketReqs": ["Blank", "Blank", "Blank", "Blank", "Blank", "TILFloor", "TILFloor", "Blank", "Blank", "TILFloor", "TILFloor", "Blank", "Blank", "TILFloor", "TILFloor", "Blank", "Blank", "Blank", "Blank", "Blank"]
   },
   {
-    "strName": "Гильзы 01",
-    "strImg": "ItmAmmoCasings01",
-    "strImgNorm": "ItmAmmoCasings01n",
+    "strName": "ИИГруз03",
+    "strImg": "ItmAICargo03",
+    "strImgNorm": "ItmAICargo03n",
+    "strImgDamaged": "ItmAICargo03Dmg02",
+    "strDmgColor": "DamageTintNone",
+    "fDmgComplexity": 500,
+    "fZScale": 0.5,
+    "nCols": 2,
+    "aLights": ["AICargo"],
+    "aSocketAdds": ["TILFixtureAdds", "TILFixtureAdds", "TILPowerJackAdds", "TILFixtureAdds", "TILFixtureAdds", "TILFixtureAdds"],
+    "aSocketForbids": ["Blank", "Blank", "Blank", "Blank", "Blank", "TILObstruction", "TILObstruction", "Blank", "Blank", "TILObstruction", "TILObstruction", "Blank", "Blank", "TILObstruction", "TILObstruction", "Blank", "Blank", "Blank", "Blank", "Blank"],
+    "aSocketReqs": ["Blank", "Blank", "Blank", "Blank", "Blank", "TILFloor", "TILFloor", "Blank", "Blank", "TILFloor", "TILFloor", "Blank", "Blank", "TILFloor", "TILFloor", "Blank", "Blank", "Blank", "Blank", "Blank"]
+  },
+  {
+    "strName": "ИИГруз03Поврежденный02",
+    "strImg": "ItmAICargo03Dmg02",
+    "strImgNorm": "ItmAICargo03n",
     "strImgDamaged": "",
     "strDmgColor": "DamageTintRust",
-    "fZScale": 0.02,
-    "nCols": 1,
-    "aSocketAdds": ["TILItemAdds"],
-    "aSocketForbids": ["Blank", "Blank", "Blank", "Blank", "TILItemForbids", "Blank", "Blank", "Blank", "Blank"],
-    "aSocketReqs": ["Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank"]
+    "fDmgComplexity": 500,
+    "fZScale": 0.5,
+    "nCols": 2,
+    "aSocketAdds": ["TILFixtureAdds", "TILFixtureAdds", "TILPowerJackAdds", "TILFixtureAdds", "TILFixtureAdds", "TILFixtureAdds"],
+    "aSocketForbids": ["Blank", "Blank", "Blank", "Blank", "Blank", "TILObstruction", "TILObstruction", "Blank", "Blank", "TILObstruction", "TILObstruction", "Blank", "Blank", "TILObstruction", "TILObstruction", "Blank", "Blank", "Blank", "Blank", "Blank"],
+    "aSocketReqs": ["Blank", "Blank", "Blank", "Blank", "Blank", "TILFloor", "TILFloor", "Blank", "Blank", "TILFloor", "TILFloor", "Blank", "Blank", "TILFloor", "TILFloor", "Blank", "Blank", "Blank", "Blank", "Blank"]
   },
   {
-    "strName": "Энергоячейка 01",
-    "strImg": "ItmAmmoPowerCell01",
-    "strImgNorm": "ItmAmmoPowerCell01n",
-    "strImgDamaged": "DmgElectrical01",
+    "strName": "ИИГруз03Свободный",
+    "strImg": "ItmAICargo03Loose",
+    "strImgNorm": "ItmAICargo03Loosen",
+    "strImgDamaged": "ItmAICargo03Dmg02Loose",
     "strDmgColor": "DamageTintNone",
-    "fDmgComplexity": 800,
-    "nDmgMode": 1,
-    "fZScale": 0.02,
-    "nCols": 1,
-    "aSocketAdds": ["TILItemAdds"],
-    "aSocketForbids": ["Blank", "Blank", "Blank", "Blank", "TILItemForbids", "Blank", "Blank", "Blank", "Blank"],
-    "aSocketReqs": ["Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank"]
-  }
-]
+    "fDmgComplexity": 500,
+    "fZScale": 0.5,
+    "nCols": 2,
+    "aLights": ["AICargo"],
+    "aSocketAdds": ["TILItemAdds", "TILItemAdds", "TILPowerJackAdds", "TILItemAdds", "TILItemAdds", "TILItemAdds"],
+    "aSocketForbids": ["Blank", "Blank", "Blank", "Blank", "Blank", "TILItemForbids", "TILItemForbids", "Blank", "Blank", "TILItemForbids", "TILItemForbids", "Blank", "Blank", "TILItemForbids", "TILItemForbids", "Blank", "Blank", "Blank", "Blank", "Blank"],
+    "aSocketReqs": ["Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank"]
+  },
+  {
+    "strName": "ИИГруз03СвободныйПоврежденный",
+    "strImg": "ItmAICargo03Dmg02Loose",
+    "strImgNorm": "ItmAICargo03Loosen",
+    "strImgDamaged": "",
+    "strDmgColor": "DamageTintRust",
+    "fDmgComplexity": 500,
+    "fZScale": 0.5,
+    "nCols": 2,
+    "aSocketAdds": ["TILItemAdds", "TILItemAdds", "TILPowerJackAdds", "TILItemAdds", "TILItemAdds", "TILItemAdds"],
+    "aSocketForbids": ["Blank", "Blank", "Blank", "Blank", "Blank", "TILItemForbids", "TILItemForbids", "Blank", "Blank", "TILItemForbids", "TILItemForbids", "Blank", "Blank", "TILItemForbids", "TILItemForbids", "Blank", "Blank", "Blank", "Blank", "Blank"],
+    "aSocketReqs": ["Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank"]
+  },
+  {
+    "strName": "ИИГруз03Выкл",
+    "strImg": "ItmAICargo03",
+    "strImgNorm": "ItmAICargo03n",
+    "strImgDamaged": "",
+    "strDmgColor": "DamageTintNone",
+    "fDmgComplexity": 500,
+    "fZScale": 0.5,
+    "nCols": 2,
+    "aSocketAdds": ["TILFixtureAdds", "TILFixtureAdds", "TILPowerJackAdds", "TILFixtureAdds", "TILFixtureAdds", "TILFixtureAdds"],
+    "aSocketForbids": ["Blank", "Blank", "Blank", "Blank", "Blank", "TILObstruction", "TILObstruction", "Blank", "Blank", "TILObstruction", "TILObstruction", "Blank", "Blank", "TILObstruction", "TILObstruction", "Blank", "Blank", "Blank", "Blank", "Blank"],
+    "aSocketReqs": ["Blank", "Blank", "Blank", "Blank", "Blank", "TILFloor", "TILFloor", "Blank", "Blank", "TILFloor", "TILFloor", "Blank", "Blank", "TILFloor", "TILFloor", "Blank", "Blank", "Blank", "Blank", "Blank"]
+  },
+  {
+    "strName": "ИИГруз04",
+    "strImg": "ItmAICargo04",
+    "strImgNorm": "ItmAICargo04n",
+    "strImgDamaged": "ItmAICargo04Dmg02",
+    "strDmgColor": "DamageTintNone",
+    "fDmgComplexity": 500,
+    "fZScale": 0.5,
+    "nCols": 2,
+    "aLights": ["AICargo"],
+    "aSocketAdds": ["TILFixtureAdds", "TILFixtureAdds", "TILPowerJackAdds", "TILFixtureAdds", "TILFixtureAdds", "TILFixtureAdds"],
+    "aSocketForbids": ["Blank", "Blank", "Blank", "Blank", "Blank", "TILObstruction", "TILObstruction", "Blank", "Blank", "TILObstruction", "TILObstruction", "Blank", "Blank", "TILObstruction", "TILObstruction", "Blank", "Blank", "Blank", "Blank", "Blank"],
+    "aSocketReqs": ["Blank", "Blank", "Blank", "Blank", "Blank", "TILFloor", "TILFloor", "Blank", "Blank", "TILFloor", "TILFloor", "Blank", "Blank", "TILFloor", "TILFloor", "Blank", "Blank", "Blank", "Blank", "Blank"]
+  },
+  {
+    "strName": "ИИГруз04Поврежденный02",
+    "strImg": "ItmAICargo04Dmg02",
+    "strImgNorm": "ItmAICargo04n",
+    "strImgDamaged": "",
+    "strDmgColor": "DamageTintRust",
+    "fDmgComplexity": 500,
+    "fZScale": 0.5,
+    "nCols": 2,
+    "aSocketAdds": ["TILFixtureAdds", "TILFixtureAdds", "TILPowerJackAdds", "TILFixtureAdds", "TILFixtureAdds", "TILFixtureAdds"],
+    "aSocketForbids": ["Blank", "Blank", "Blank", "Blank", "Blank", "TILObstruction", "TILObstruction", "Blank", "Blank", "TILObstruction", "TILObstruction", "Blank", "Blank", "TILObst
