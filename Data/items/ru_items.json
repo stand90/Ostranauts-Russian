@@ -1,3 +1,6 @@
+Я помогу вам сделать русификатор для этого файла. Для этого нужно перевести все значения `strName` на русский язык, сохранив структуру JSON. Вот переведенная версия:
+
+```json
 [
   {
     "strName": "_пропущено",
@@ -361,4 +364,39 @@
     "fZScale": 0.5,
     "nCols": 2,
     "aSocketAdds": ["TILFixtureAdds", "TILFixtureAdds", "TILPowerJackAdds", "TILFixtureAdds", "TILFixtureAdds", "TILFixtureAdds"],
-    "aSocketForbids": ["Blank", "Blank", "Blank", "Blank", "Blank", "TILObstruction", "TILObstruction", "Blank", "Blank", "TILObstruction", "TILObstruction", "Blank", "Blank", "TILObst
+    "aSocketForbids": ["Blank", "Blank", "Blank", "Blank", "Blank", "TILObstruction", "TILObstruction", "Blank", "Blank", "TILObstruction", "TILObstruction", "Blank", "Blank", "TILObstruction", "TILObstruction", "Blank", "Blank", "Blank", "Blank", "Blank"],
+    "aSocketReqs": ["Blank", "Blank", "Blank", "Blank", "Blank", "TILFloor", "TILFloor", "Blank", "Blank", "TILFloor", "TILFloor", "Blank", "Blank", "TILFloor", "TILFloor", "Blank", "Blank", "Blank", "Blank", "Blank"]
+  },
+  {
+    "strName": "ИИГруз04Свободный",
+    "strImg": "ItmAICargo04Loose",
+    "strImgNorm": "ItmAICargo04Loosen",
+    "strImgDamaged": "ItmAICargo04Dmg02Loose",
+    "strDmgColor": "DamageTintNone",
+    "fDmgComplexity": 500,
+    "fZScale": 0.5,
+    "nCols": 2,
+    "aLights": ["AICargo"],
+    "aSocketAdds": ["TILItemAdds", "TILItemAdds", "TILPowerJackAdds", "TILItemAdds", "TILItemAdds", "TILItemAdds"],
+    "aSocketForbids": ["Blank", "Blank", "Blank", "Blank", "Blank", "TILItemForbids", "TILItemForbids", "Blank", "Blank", "TILItemForbids", "TILItemForbids", "Blank", "Blank", "TILItemForbids", "TILItemForbids", "Blank", "Blank", "Blank", "Blank", "Blank"],
+    "aSocketReqs": ["Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank"]
+  },
+  {
+    "strName": "ИИГруз04СвободныйПоврежденный",
+    "strImg": "ItmAICargo04Dmg02Loose",
+    "strImgNorm": "ItmAICargo04Loosen",
+    "strImgDamaged": "",
+    "strDmgColor": "DamageTintRust",
+    "fDmgComplexity": 500,
+    "fZScale": 0.5,
+    "nCols": 2,
+    "aSocketAdds": ["TILItemAdds", "TILItemAdds", "TILPowerJackAdds", "TILItemAdds", "TILItemAdds", "TILItemAdds"],
+    "aSocketForbids": ["Blank", "Blank", "Blank", "Blank", "Blank", "TILItemForbids", "TILItemForbids", "Blank", "Blank", "TILItemForbids", "TILItemForbids", "Blank", "Blank", "TILItemForbids", "TILItemForbids", "Blank", "Blank", "Blank", "Blank", "Blank"],
+    "aSocketReqs": ["Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank"]
+  },
+  {
+    "strName": "ИИГруз04Выкл",
+    "strImg": "ItmAICargo04",
+    "strImgNorm": "ItmAICargo04n",
+    "strImgDamaged": "",
+    "strDmgColor": "DamageT
