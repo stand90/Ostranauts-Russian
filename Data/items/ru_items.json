@@ -190,4 +190,304 @@
     "aSocketForbids": ["Blank", "Blank", "Blank", "Blank", "Blank", "TILItemForbids", "TILItemForbids", "Blank", "Blank", "TILItemForbids", "TILItemForbids", "Blank", "Blank", "TILItemForbids", "TILItemForbids", "Blank", "Blank", "Blank", "Blank", "Blank"],
     "aSocketReqs": ["Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank", "Blank"]
   },
-  
+    {
+    "strName": "ИИГруз01Выкл",
+    "strImg": "ItmAICargo01",
+    "strImgNorm": "ItmAICargo01n",
+    "strImgDamaged": "",
+    "strDmgColor": "DamageTintRust",
+    "fDmgComplexity": 500,
+    "fZScale": 0.5,
+    "nCols": 2,
+    "aSocketAdds": [
+      "TILFixtureAdds", "TILFixtureAdds",
+      "TILPowerJackAdds", "TILFixtureAdds",
+      "TILFixtureAdds", "TILFixtureAdds"
+    ],
+    "aSocketForbids": [
+      "Blank", "Blank", "Blank", "Blank",
+      "Blank", "TILObstruction", "TILObstruction", "Blank",
+      "Blank", "TILObstruction", "TILObstruction", "Blank",
+      "Blank", "TILObstruction", "TILObstruction", "Blank",
+      "Blank", "Blank", "Blank", "Blank"
+    ],
+    "aSocketReqs": [
+      "Blank", "Blank", "Blank", "Blank",
+      "Blank", "TILFloor", "TILFloor", "Blank",
+      "Blank", "TILFloor", "TILFloor", "Blank",
+      "Blank", "TILFloor", "TILFloor", "Blank",
+      "Blank", "Blank", "Blank", "Blank"
+    ]  
+  },
+  {
+    "strName": "ИИГруз01ВыклСвободный",
+    "strImg": "ItmAICargo01Loose",
+    "strImgNorm": "ItmAICargo01Loosen",
+    "strImgDamaged": "",
+    "strDmgColor": "DamageTintRust",
+    "fDmgComplexity": 500,
+    "fZScale": 0.5,
+    "nCols": 2,
+    "aSocketAdds": [
+      "TILItemAdds", "TILItemAdds",
+      "TILPowerJackAdds", "TILItemAdds",
+      "TILItemAdds", "TILItemAdds"
+    ],
+    "aSocketForbids": [
+      "Blank", "Blank", "Blank", "Blank",
+      "Blank", "TILItemForbids", "TILItemForbids", "Blank",
+      "Blank", "TILItemForbids", "TILItemForbids", "Blank",
+      "Blank", "TILItemForbids", "TILItemForbids", "Blank",
+      "Blank", "Blank", "Blank", "Blank"
+    ],
+    "aSocketReqs": [
+      "Blank", "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank", "Blank"
+    ]  
+  },
+  {
+    "strName": "ВоздушныйНасос02Поврежденный",
+    "strImg": "ItmAirPump02Debug",
+    "strImgNorm": "ItmAirPump02Offn",
+    "strImgDamaged": "",
+    "strDmgColor": "DamageTintRust",
+    "fZScale": 0.75,
+    "nCols": 1,
+    "aSocketAdds": [
+      "TILWallDecoAdds",
+      "TILFixtureAdds",
+      "TILWallDecoAdds"
+    ],
+    "aSocketForbids": [
+      "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank",
+      "Blank", "TILFixture", "Blank",
+      "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank"
+    ],
+    "aSocketReqs": [
+      "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank",
+      "Blank", "TILWall", "Blank",
+      "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank"
+    ]
+  },
+  {
+    "strName": "ВоздушныйНасос02ПоврежденныйСвободный",
+    "strImg": "ItmAirPump02DebugLoose",
+    "strImgNorm": "ItmAirPump02OffLoosen",
+    "strImgDamaged": "",
+    "strDmgColor": "DamageTintRust",
+    "fZScale": 0.5,
+    "nCols": 1,
+    "aSocketAdds": [
+      "TILItemAdds",
+      "TILItemAdds",
+      "TILItemAdds"
+    ],
+    "aSocketForbids": [
+      "Blank", "Blank", "Blank",
+      "Blank", "TILItemForbids", "Blank",
+      "Blank", "TILItemForbids", "Blank",
+      "Blank", "TILItemForbids", "Blank",
+      "Blank", "Blank", "Blank"
+    ],
+    "aSocketReqs": [
+      "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank"
+    ]
+  },
+  {
+    "strName": "ВоздушныйНасос02Выкл",
+    "strImg": "ItmAirPump02Debug",
+    "strImgNorm": "ItmAirPump02Offn",
+    "strImgDamaged": "ItmAirPump02Dmg01",
+    "strDmgColor": "DamageTintNone",
+    "fDmgComplexity": 500,
+    "bLerp": false,
+    "fZScale": 0.75,
+    "nCols": 1,
+    "aSocketAdds": [
+      "TILWallDecoAdds",
+      "TILFixtureAdds",
+      "TILWallDecoAdds"
+    ],
+    "aSocketForbids": [
+      "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank",
+      "Blank", "TILFixture", "Blank",
+      "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank"
+    ],
+    "aSocketReqs": [
+      "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank",
+      "Blank", "TILWall", "Blank",
+      "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank"
+    ]
+  },
+  {
+    "strName": "ВоздушныйНасос02ВыклСвободный",
+    "strImg": "ItmAirPump02DebugLoose",
+    "strImgNorm": "ItmAirPump02OffLoosen",
+    "strImgDamaged": "ItmAirPump02Dmg01Loose",
+    "strDmgColor": "DamageTintNone",
+    "fDmgComplexity": 500,
+    "bLerp": false,
+    "fZScale": 0.5,
+    "nCols": 1,
+    "aSocketAdds": [
+      "TILItemAdds",
+      "TILItemAdds",
+      "TILItemAdds"
+    ],
+    "aSocketForbids": [
+      "Blank", "Blank", "Blank",
+      "Blank", "TILItemForbids", "Blank",
+      "Blank", "TILItemForbids", "Blank",
+      "Blank", "TILItemForbids", "Blank",
+      "Blank", "Blank", "Blank"
+    ],
+    "aSocketReqs": [
+      "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank"
+    ]
+  },
+  {
+    "strName": "ВоздушныйНасос02Зеленый",
+    "strImg": "ItmAirPump02Debug",
+    "strImgNorm": "ItmAirPump02Offn",
+    "strImgDamaged": "ItmAirPump01Dmg02",
+    "strDmgColor": "DamageTintNone",
+    "fDmgComplexity": 500,
+    "bLerp": false,
+    "fZScale": 0.75,
+    "nCols": 1,
+    "aLights": ["AirPumpRGG"],
+    "aSocketAdds": [
+      "TILWallDecoAdds",
+      "TILFixtureAdds",
+      "TILWallDecoAdds"
+    ],
+    "aSocketForbids": [
+      "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank",
+      "Blank", "TILFixture", "Blank",
+      "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank"
+    ],
+    "aSocketReqs": [
+      "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank",
+      "Blank", "TILWall", "Blank",
+      "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank"
+    ]
+  },
+  {
+    "strName": "СигнализацияN2Выкл",
+    "strImg": "ItmAlarmN2Off",
+    "strImgNorm": "ItmAlarm2n",
+    "strImgDamaged": "ItmAlarmN2OffDmg02",
+    "strDmgColor": "DamageTintNone",
+    "fZScale": 0.75,
+    "nCols": 1,
+    "aSocketAdds": ["TILWallDecoAdds"],
+    "aSocketForbids": [
+      "Blank", "Blank", "Blank",
+      "Blank", "TILWallDecoAdds", "Blank",
+      "Blank", "Blank", "Blank"
+    ],
+    "aSocketReqs": [
+      "Blank", "TILWall", "Blank",
+      "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank"
+    ]  
+  },
+  {
+    "strName": "СигнализацияN2ВыклСвободная",
+    "strImg": "ItmAlarmN2OffLoose",
+    "strImgNorm": "ItmAlarm2Loosen",
+    "strImgDamaged": "ItmAlarmN2OffDmg02Loose",
+    "strDmgColor": "DamageTintDefault",
+    "fZScale": 0.5,
+    "nCols": 1,
+    "aSocketAdds": ["TILItemAdds"],
+    "aSocketForbids": [
+      "Blank", "Blank", "Blank",
+      "Blank", "TILItemForbids", "Blank",
+      "Blank", "Blank", "Blank"
+    ],
+    "aSocketReqs": [
+      "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank"
+    ]  
+  },
+  {
+    "strName": "СигнализацияN2Поврежденная",
+    "strImg": "ItmAlarmN2OffDmg02",
+    "strImgNorm": "ItmAlarmN2OffDmg02n",
+    "strImgDamaged": "",
+    "strDmgColor": "DamageTintDefault",
+    "fZScale": 0.75,
+    "nCols": 1,
+    "aSocketAdds": ["TILWallDecoAdds"],
+    "aSocketForbids": [
+      "Blank", "Blank", "Blank",
+      "Blank", "TILWallDecoAdds", "Blank",
+      "Blank", "Blank", "Blank"
+    ],
+    "aSocketReqs": [
+      "Blank", "TILWall", "Blank",
+      "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank"
+    ]  
+  },
+  {
+    "strName": "СигнализацияN2ПоврежденнаяСвободная",
+    "strImg": "ItmAlarmN2OffDmg02Loose",
+    "strImgNorm": "ItmAlarmN2OffDmg02Loosen",
+    "strImgDamaged": "",
+    "strDmgColor": "DamageTintDefault",
+    "fZScale": 0.5,
+    "nCols": 1,
+    "aSocketAdds": ["TILItemAdds"],
+    "aSocketForbids": [
+      "Blank", "Blank", "Blank",
+      "Blank", "TILItemForbids", "Blank",
+      "Blank", "Blank", "Blank"
+    ],
+    "aSocketReqs": [
+      "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank"
+    ]  
+  },
+  {
+    "strName": "СигнализацияN2ВклЗеленая",
+    "strImg": "ItmAlarmN2Off",
+    "strImgNorm": "ItmAlarm2n",
+    "strImgDamaged": "ItmAlarmN2OffDmg02",
+    "strDmgColor": "DamageTintNone",
+    "fZScale": 0.75,
+    "nCols": 1,
+    "aLights": ["Alarm2G"],
+    "aSocketAdds": ["TILWallDecoAdds"],
+    "aSocketForbids": [
+      "Blank", "Blank", "Blank",
+      "Blank", "TILWallDecoAdds", "Blank",
+      "Blank", "Blank", "Blank"
+    ],
+    
